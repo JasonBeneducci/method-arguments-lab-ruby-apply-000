@@ -126,5 +126,5 @@ learning to program in #{language}."
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/method-arguments-lab'>Methods and Arguments Lab</a> on Learn.co and start learning to code for free.</p>
 def introduction(name)
-puts "Hi, my name is + #{name}"
+puts "Hi, my name is #{name}"
 end 
